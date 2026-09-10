@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm Emery 👋
 
-<!--
-**emeryweb643/emeryweb643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer based in Austin, TX. I build responsive web apps, tinker with UI components, and occasionally fix broken CSS at odd hours.
 
-Here are some ideas to get you started:
+#### What I'm working on
+- 🔨 Client apps using Next.js, TypeScript, and TailwindCSS
+- ⚡ Speeding up local workflows and build pipelines with Vite
+- 📚 Digging deeper into core web vitals and accessible design systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech & Tools
+- **Frontend:** TypeScript, JavaScript, React, Next.js
+- **Styling:** TailwindCSS, PostCSS, CSS Modules
+- **Tooling:** Vite, Git, Vitest, Playwright
+
+#### Connect
+- Email: emeryweb643@gmail.com
+- Twitter/X: [@emeryweb643](https://x.com)
+- LinkedIn: [linkedin.com/in/emeryweb](https://linkedin.com)
